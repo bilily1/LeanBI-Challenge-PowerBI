@@ -40,8 +40,8 @@ Il porte sur l’**analyse et l’optimisation d’un poste d’assemblage autom
 ---
 
 ## 👥 Encadrement et remerciements
-- **Superviseur :** Allaa Eddine Bachab  
-- **Formatrice Power BI :** Boukourizia Nour El Houda  
+- **Superviseur :** Alaa Eddine Bachab  
+- **Formatrice Power BI :** Nour El Houda  Boukourizia 
 - **Président du club :** Yasser Abderrahmane Knina  
 
 ---
